@@ -2,7 +2,7 @@
 
 ## Objective
 
-For this project, I utilize the skills I have acquired in DTSC660 Data and Database Management with SQL to create and design a database in PgAdmin and write complex sql queries to answer the business questions listed in the "instructions" PDF.
+For this project, I apply the skills acquired in DTSC660 Data and Database Management with SQL to create and design a database using PgAdmin. I also write complex SQL queries to address the analytical questions outlined in the "instructions" PDF.
 
 ## Part 1: Database Design
 
